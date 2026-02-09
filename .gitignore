@@ -11,8 +11,9 @@ venv/
 env/
 vrag/
 
-# Vector store
+# Vector store (generated data)
 vector_store/
+*.faiss
 
 # IDE
 .vscode/
