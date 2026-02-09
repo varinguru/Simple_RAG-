@@ -1,0 +1,9 @@
+llama-index
+llama-index-readers-github
+llama-index-embeddings-google-genai
+llama-index-llms-google-genai
+llama-index-vector-stores-faiss
+faiss-cpu
+nest-asyncio
+python-dotenv
+requests
